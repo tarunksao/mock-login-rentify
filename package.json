@@ -1,0 +1,15 @@
+{
+	"name": "mock-login-rentify",
+	"version": "1.0.0",
+	"description": "mock login for rentify",
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"keywords": [],
+	"author": "tarun",
+	"license": "ISC",
+	"dependencies": {
+		"json-server": "^0.17.1"
+	}
+}

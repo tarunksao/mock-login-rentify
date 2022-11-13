@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Rentify-Admin-1",
+      "mobile": 12345,
+      "email": "rentify-admin.1@rentify.com",
+      "admin": true
+    },
+    {
+      "id": 2,
+      "name": "XYZ",
+      "mobile": 9876543210,
+      "email": "xyz@abc.com",
+      "admin": false
+    }
+  ],
+  "loginUser": []
+}
